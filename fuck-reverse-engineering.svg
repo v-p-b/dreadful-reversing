@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566" height="112" viewBox="0 0 566 112"
+     role="img" aria-labelledby="postTitle postDesc">
+  <title id="postTitle">Fuck Reverse engineering</title>
+  <desc id="postDesc">Reddit post in r/ExploitDev submitted by BadGoym.</desc>
+
+  <!-- canvas -->
+  <rect x="0" y="0" width="566" height="112" fill="#ffffff"/>
+
+  <!-- header line: title + (self.subreddit), flowing so spacing is automatic -->
+  <text x="8" y="26"
+        font-family="Verdana, 'DejaVu Sans', Geneva, Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="normal" fill="#0000ff"
+        letter-spacing="-0.2">Fuck Reverse engineering<tspan
+        font-size="12" font-weight="normal" fill="#888888"
+        letter-spacing="0"> (r/ExploitDev)</tspan></text>
+
+  <!-- meta line: prefix + author, flowing so the username can never overlap -->
+  <text x="8" y="45"
+        font-family="Verdana, 'DejaVu Sans', Geneva, Arial, Helvetica, sans-serif"
+        font-size="12" fill="#888888">submitted 7 hours ago by <tspan
+        fill="#336699">BadGoym</tspan></text>
+
+  <!-- post body box: shortened to the longest line, taller for two lines -->
+  <rect x="6" y="52" width="546" height="48" rx="7" ry="7"
+        fill="#ffffff" stroke="#b0c2d4" stroke-width="1.2"/>
+
+  <!-- post body, sentence 1 -->
+  <text x="18" y="70"
+        font-family="Verdana, 'DejaVu Sans', Geneva, Arial, Helvetica, sans-serif"
+        font-size="14.5" fill="#1a1a1b"
+        textLength="518" lengthAdjust="spacingAndGlyphs">I've never ever in my existence done something more dreadful than RE.</text>
+
+  <!-- post body, sentence 2 -->
+  <text x="18" y="90"
+        font-family="Verdana, 'DejaVu Sans', Geneva, Arial, Helvetica, sans-serif"
+        font-size="14.5" fill="#1a1a1b"
+        textLength="455" lengthAdjust="spacingAndGlyphs">This shit is so confusing and time consuming. I'm going insane.</text>
+</svg>
